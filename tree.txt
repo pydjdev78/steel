@@ -1,0 +1,31 @@
+C:.
+|   .env
+|   db.sqlite3
+|   main.py
+|   manage.py
+|   tree.txt
+|   tree_p.txt
+|   
++---steel
+|   |   asgi.py
+|   |   settings.py
+|   |   urls.py
+|   |   wsgi.py
+|   |   __init__.py
+|           
++---templates
+|       base.html
+|       
++---volume
+|   |   admin.py
+|   |   apps.py
+|   |   models.py
+|   |   tests.py
+|   |   urls.py
+|   |   views.py
+|   |   __init__.py
+|   |       
+|   +---templates
+|   |   \---volume
+|   |           year_archive.html
+
